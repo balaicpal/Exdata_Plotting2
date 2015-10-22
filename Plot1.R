@@ -36,6 +36,7 @@ title(ylab = "Total PM2.5 emission(tonnes)",line = 4.5)
 
 title(xlab = "Year",line = 2.5)
 title(main="PM2.5 Emissions in each year")
+
 dev.off()
 
 #Restore original settings
